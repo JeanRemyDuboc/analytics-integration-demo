@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# 🚀 Analytics Integration with TypeScript, React and Styled Components
+
+In this series of tutorials, we are going to create a simple web applications using 3 technologies:
+
+- TypeScript as our language of choice
+- React will be our framework to develop our app
+- Styled Components to manage styling with CSS-in-JS
+
+We will learn how to track user actions in the app using Google Analytics 4. We'll also use the Web Vitals library to measure and send the app's performance data to GA4.
+
+The aim is to dive into the basics of modern front-end workflows, and how they integrate with Google Analytics.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+⚠️ WARNING: this is NOT meant for any production deployment. It's just a small demo, and comes with no guarantee whatsoever. Use at your own risk.
 
 ## Available Scripts
 
